@@ -1,3 +1,9 @@
+# This project has been created as exercise to applying for a job.
+
+# The materials that were used come from the Rick and Morty API: https://rickandmortyapi.com/
+
+# This app was created with npx create-react-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
