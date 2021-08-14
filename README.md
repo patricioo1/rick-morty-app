@@ -4,6 +4,8 @@
 
 # This app was created with npx create-react-app
 
+# If you want to see the application without running it on your computer, go to: https://rick-morty-application.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
