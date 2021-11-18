@@ -384,11 +384,6 @@
         font-size: 18px;
     }
 
-    .results-card {
-        /* position: relative; */
-        /* height: 100%; */
-    }
-
     .results-options__properties {
         justify-content: space-around;
     }
